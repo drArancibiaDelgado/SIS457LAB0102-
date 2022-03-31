@@ -14,6 +14,12 @@ int main()
 
 	cout << "Mi pasatiempo son : los deportes de contacto" << endl;
 
+	cout << "Naci el 2000 el 5 de noviembre un domingo en la mañana" << endl;
+
+	cout << "Soy soltero actualmente" << endl;
+
+	cout << "Estuve en el colegio montesorri y en el Don Bosco" << endl;
+
     return 0;
 }
 
